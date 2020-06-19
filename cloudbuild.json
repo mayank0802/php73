@@ -21,7 +21,7 @@
       "args": [
          "run",
          "deploy",
-         "<service_name>",
+         "php73",
          "--image",
          "gcr.io/kiss-16325/new_testing_code:$COMMIT_SHA",
          "--region",
