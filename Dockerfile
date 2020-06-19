@@ -1,1 +1,1 @@
-from akeneo/fpm:php-7.3
+from trafex/alpine-nginx-php
